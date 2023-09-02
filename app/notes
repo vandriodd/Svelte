@@ -24,4 +24,7 @@ Tsconfig.json
 This file configures TypeScript for the project. It is used to configure the compiler options, paths, etc.
 
 Vite.config.js
-It turns out that a SvelteKit project is actually a Vite project (to investigate what it is) that uses the @sveltejs/kit/vite plugin. Crazy, indeed.
+It turns out that a SvelteKit project is actually a Vite project that uses the @sveltejs/kit/vite plugin. Crazy, indeed.
+
+What is Vite?
+Well, it's a 'build tool' used to build the general structure of the project, including the code base of each file. It 'initializes' the application, so to speak.
