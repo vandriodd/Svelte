@@ -1,0 +1,27 @@
+The app/ directory contains all files/resources/whatever is needed for a SvelteKit project.
+It actually looks like this:
+
+app/
+├ src/
+│ ├ lib/
+│ | └ Contains utilities and components (can be imported by $lib alias)
+| ├ routes/
+| | └ Contains the routes of the application
+├ static/
+│ └ Contains static files/assets (images, fonts, etc)
+├ package.json
+├ svelte.config.js
+├ tsconfig.json
+└ vite.config.js
+
+Package.json
+I still do not understand what this file is for xd
+
+Svelte.config.js
+This file contains all the configuration for SvelteKit. It is used to configure the adapter, preprocessors, etc.
+
+Tsconfig.json
+This file configures TypeScript for the project. It is used to configure the compiler options, paths, etc.
+
+Vite.config.js
+It turns out that a SvelteKit project is actually a Vite project (to investigate what it is) that uses the @sveltejs/kit/vite plugin. Crazy, indeed.
