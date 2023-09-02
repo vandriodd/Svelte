@@ -1,0 +1,8 @@
+The src/ directory contains the entire body of the project itself.
+It actually looks like this:
+
+├ src/
+│ ├ lib/
+│ | └ Contains utilities and components (can be imported by $lib alias)
+| ├ routes/
+| | └ Contains the routes of the application
