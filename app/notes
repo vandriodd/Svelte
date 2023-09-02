@@ -15,7 +15,7 @@ app/
 └ vite.config.js
 
 Package.json
-It is a configuration file that contains the project description (name, version, dependencies and scripts).
+It is a configuration file that contains the project description (name, version, dependencies and scripts)
 
 Svelte.config.js
 This file contains all the configuration for SvelteKit. It is used to configure the adapter, preprocessors, etc.
