@@ -1,10 +1,10 @@
 ## Table of contents
 
-* [Introduction](#introduction)
-* [About](#about)
-* [Contents](#contents)
-* [Learning resources](#learning-resources)
-* [Credits](#credits)
+- [Introduction](#introduction)
+- [About](#about)
+- [Contents](#contents)
+- [Learning resources](#learning-resources)
+- [Credits](#credits)
 
 ## Introduction
 
@@ -28,3 +28,7 @@ Within this repository, you will find:
 
 - **Original Course:** [Svelte Kit Full Course by Fireship](https://fireship.io/courses/sveltekit/)
 - **Official Svelte Documentation:** [Svelte Docs](https://svelte.dev/docs/introduction)
+
+## Credits
+
+&ensp;[<img src="https://img.shields.io/badge/vandriodd-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://github.com/vandriodd)
