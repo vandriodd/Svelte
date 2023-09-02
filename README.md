@@ -10,7 +10,7 @@
 
 Welcome to the Svelte repository dedicated to tracking and sharing progress on the Svelte Full Course offered by Fireship. This repository has been created for educational purposes and aims to provide a source of reference and learning for the Svelte framework.
 
-As an student, I have embarked on this project to explore Svelte's capabilities and share my progress as I advance through the course. This platform will be useful for those looking to follow the same course or anyone interested in learning more about Svelte. :)
+As an student, I have embarked on this project to explore Svelte's capabilities and share my progress as I advance through the course. This platform will be useful for those looking to follow the same course or anyone interested in learning more about Svelte :)
 
 ## About
 
