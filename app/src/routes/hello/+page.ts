@@ -1,6 +1,15 @@
 // Exports a function that run both on the server (initial load) and the client (subsequent navigation) side
 import type { PageLoad } from './$types';
 
+// Control whether or not this page is server side rendered (SSR), on false disables the server side code (SSR).
+// export const ssr = true;
+
+// Control whether or not this page is prerendered, on false disables the server side code (SSR).
+// export const prerender = true;
+
+// Control whether or not this page is hydrated, on false disables the client side code (JS),
+// export const csr = true;
+
 export const load: PageLoad = async () => {
 
   // Since this function runs on the client side, it is not possible to do things such as:
